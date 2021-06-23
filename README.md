@@ -1,15 +1,7 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liudih&theme=outrun&show_icons=true&locale=cn&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liudih&layout=compact&theme=outrun&locale=cn" />
-</a>
 
-
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liyupi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=outrun&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&theme=material-palenight&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liudih&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=outrun&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liudih&hide_title=true&hide_border=true&layout=compact&theme=material-palenight&locale=cn" />
 
 
 
