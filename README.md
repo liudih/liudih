@@ -1,20 +1,18 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liudih&theme=outrun&show_icons=true&locale=cn)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liudih&repo=blog&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liudih&theme=outrun&show_icons=true&locale=cn" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liudih&layout=compact&theme=outrun" />
+</a>
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liudih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liudih&theme=outrun&show_icons=true&locale=cn" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liudih&layout=compact" />
-</a>
+
 
 
 
