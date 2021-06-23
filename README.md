@@ -5,7 +5,7 @@
 
 
 <a href="http://pangyu.net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liudih&repo=blog" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liudih&repo=blog&theme=cobalt" />
 </a>
 
 
