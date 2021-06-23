@@ -7,6 +7,9 @@
 <a href="https://github.com/liudih/blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liudih&repo=blog&theme=cobalt" />
 </a>
+<a href="https://github.com/liudih/liudih.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liudih&repo=liudih.github.io&theme=cobalt" />
+</a>
 
 
 
