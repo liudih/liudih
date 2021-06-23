@@ -19,7 +19,7 @@
 <br />
 
 
-- 🌱 [github-readme-stats-theme](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
+- 🌱 <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="_blank" >github-readme-stats-theme</a>
 
 <!--
 **liudih/liudih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
